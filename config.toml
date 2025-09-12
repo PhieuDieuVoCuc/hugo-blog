@@ -42,3 +42,4 @@ weight = 20
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+baseURL: https://phieudieuvocuc.github.io/hugo-blog/
