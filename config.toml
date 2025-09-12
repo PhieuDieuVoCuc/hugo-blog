@@ -1,6 +1,6 @@
 # Change the default theme to be use when building the site with Hugo
 theme = "hugo-theme-learn"
-
+baseURL =  'https://phieudieuvocuc.github.io/hugo-blog/'
 # For search functionality
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
@@ -42,4 +42,4 @@ weight = 20
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
-baseURL =  'https://phieudieuvocuc.github.io/hugo-blog/'
+
